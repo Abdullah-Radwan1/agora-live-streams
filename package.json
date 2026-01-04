@@ -1,0 +1,20 @@
+{
+  "name": "agora",
+  "version": "1.0.0",
+  "description": "agora-project",
+  "homepage": "https://github.com/Abdullah-Radwan1/agora-live-streams#readme",
+  "bugs": {
+    "url": "https://github.com/Abdullah-Radwan1/agora-live-streams/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdullah-Radwan1/agora-live-streams.git"
+  },
+  "license": "ISC",
+  "author": "Abdullah",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
